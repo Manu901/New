@@ -1,1 +1,3 @@
 Hey! Learning Git commands
+
+Trying to Push it in remote reporisatory
