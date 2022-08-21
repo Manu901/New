@@ -1,7 +1,0 @@
-Hey! Learning Git commands
-
-Trying to Push it in remote reporisatory
-
-Good!! I am adding one line from Server. 
-
-GOT IT!!!
